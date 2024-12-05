@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  grpc: ^4.0.1
+  protobuf: ^2.0.1
 
 dev_dependencies:
   flutter_test:
